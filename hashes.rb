@@ -10,6 +10,12 @@ class_celeb_crushes = {
 }
 puts class_celeb_crushes
 
+#iterates through the hash
+class_celeb_crushes.each do |names, crushes|
+  puts ""
+end
+
+
 # hash = {"cheese" => "stuff on pizza"}
 
 # character_names = ["Monica", "Joey", "Phoebe"]
