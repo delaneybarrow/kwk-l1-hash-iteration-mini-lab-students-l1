@@ -12,7 +12,7 @@ puts class_celeb_crushes
 
 #iterates through the hash
 class_celeb_crushes.each do |names, crushes|
-  puts "#{names} crush is #{crushes}"
+  puts "#{names}'s crush is #{crushes}"
 end
 
 
