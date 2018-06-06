@@ -3,6 +3,13 @@ celeb_crush["Emi"] = "Grant Gustin"
 
 puts celeb_crush 
 
+class_celeb_crushes = {
+  "Natalia" => "Timothee Chalemet",
+  "Maya" => "Michael B. Jordan"
+  "Amira" => "Cole Sprouse"
+  ""
+}
+
 # hash = {"cheese" => "stuff on pizza"}
 
 # character_names = ["Monica", "Joey", "Phoebe"]
