@@ -12,7 +12,7 @@ def add_a_key_value_pair
   # Implement this method so that it adds a key value pair to the hash created in create_olympics_hash
   summer_olympics[:Atlanta] = 1996
 end
-puts add_a_key_value_pair
+puts summer_olympics
 
 def iterate_through_hash
   # Implement this method so that it iterates over the hash created in add_a_key_value_pair
