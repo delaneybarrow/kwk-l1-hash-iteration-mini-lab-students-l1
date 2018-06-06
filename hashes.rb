@@ -1,13 +1,15 @@
-hash = {"cheese" => "stuff on pizza"}
+celeb_crush = {}
 
-character_names = ["Monica", "Joey", "Phoebe"]
-characteristics = ["Neat Freak", "Jokester", "Free Spirit"]
+# hash = {"cheese" => "stuff on pizza"}
 
-friends_characteristics = {}
+# character_names = ["Monica", "Joey", "Phoebe"]
+# characteristics = ["Neat Freak", "Jokester", "Free Spirit"]
 
-index = 0 
-character_names.each do |name|
-  friends_characteristics[name] = characteristics[index]
-  index += 1
-end
-puts friends_characteristics
+# friends_characteristics = {}
+
+# index = 0 
+# character_names.each do |name|
+#   friends_characteristics[name] = characteristics[index]
+#   index += 1
+# end
+# puts friends_characteristics
