@@ -7,6 +7,6 @@ friends_characteristics = {}
 
 index = 0 
 character_names.each do |name|
-  friends_characteristics[name] = characteristics[index]
+  friends_characteristics[name] = characteristics[ind
   index += 1
 end
