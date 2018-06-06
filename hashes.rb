@@ -1,3 +1,5 @@
+puts 3 + 3.0 
+
 # celeb_crush = {}
 # celeb_crush["Emi"] = "Grant Gustin"
 
