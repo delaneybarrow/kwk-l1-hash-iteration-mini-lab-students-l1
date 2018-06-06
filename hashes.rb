@@ -1,4 +1,7 @@
 celeb_crush = {}
+celeb_crush["Emi"] = "Grant Gustin"
+
+puts celeb_crush 
 
 # hash = {"cheese" => "stuff on pizza"}
 
