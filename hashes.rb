@@ -3,17 +3,17 @@
 
 # puts celeb_crush 
 
-class_celeb_crushes = {
-  "Natalia" => "Timothee Chalemet",
-  "Maya" => "Michael B. Jordan",
-  "Amira" => "Cole Sprouse"
-}
-puts class_celeb_crushes
+# class_celeb_crushes = {
+#   "Natalia" => "Timothee Chalemet",
+#   "Maya" => "Michael B. Jordan",
+#   "Amira" => "Cole Sprouse"
+# }
+# puts class_celeb_crushes
 
 #iterates through the hash
-class_celeb_crushes.each do |names, crushes|
-  puts "#{names}'s crush is #{crushes}"
-end
+# class_celeb_crushes.each do |names, crushes|
+#   puts "#{names}'s crush is #{crushes}"
+# end
 
 
 # hash = {"cheese" => "stuff on pizza"}
