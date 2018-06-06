@@ -1,6 +1,6 @@
 hash = {"cheese" => "stuff on pizza"}
 
-character_names = ["monica", "Joey", "Phoebe"]
+character_names = ["Monica", "Joey", "Phoebe"]
 characteristics = ["Neat Freak", "Jokester", "Free Spirit"]
 
 friends_characteristics = {}
