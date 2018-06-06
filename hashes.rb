@@ -5,9 +5,8 @@ puts celeb_crush
 
 class_celeb_crushes = {
   "Natalia" => "Timothee Chalemet",
-  "Maya" => "Michael B. Jordan"
+  "Maya" => "Michael B. Jordan",
   "Amira" => "Cole Sprouse"
-  ""
 }
 
 # hash = {"cheese" => "stuff on pizza"}
