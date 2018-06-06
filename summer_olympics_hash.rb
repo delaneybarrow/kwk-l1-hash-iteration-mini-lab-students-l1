@@ -17,8 +17,9 @@ def add_a_key_value_pair
     :London => 2012
   }
   summer_olympics[:Atlanta] = 1996
+  puts summer_olympics
 end
-puts summer_olympics
+puts add_a_key_value_pair
 
 def iterate_through_hash
   # Implement this method so that it iterates over the hash created in add_a_key_value_pair
