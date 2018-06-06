@@ -40,4 +40,12 @@ puts iterate_through_hash
 def iterate_through_keys
   # Implement this method so that it converts the keys of the hash created in add_a_key_value_pair
   # into uppercased Strings, creates a new array with these values, and then puts each upcase key in the CLI
+  summer_olympics = {
+    :Sydney => 2000.to_s.upcase,
+    :Athens => 2004.to_s.upcase,
+    :Beijing => 2008.to_s.upcase,
+    :London => 2012.to_s.upcase
+  }
+  puts summer_olympics
 end
+puts iterate_through_keys
